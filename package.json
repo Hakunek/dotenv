@@ -25,7 +25,8 @@
     "test": "tap run --allow-empty-coverage --disable-coverage --timeout=60000",
     "test:coverage": "tap run --show-full-coverage --timeout=60000 --coverage-report=text --coverage-report=lcov",
     "prerelease": "npm test",
-    "release": "standard-version"
+    "release": "standard-version",
+    "apply": "git commit -a -m \"changes applied\" & git push & pnpm publish --access public --publish-branch main"
   },
   "repository": {
     "type": "git",
