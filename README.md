@@ -1,9 +1,10 @@
-<div align="center" style="color:red">
-THIS IS NOT OFFICIAL REPO, JUST A FORK I MADE TO REMOVE TIPS AS THEY WERE BREAKING MY ALERT SYSTEM FOR APPS I MADE </ br>
-Please use the original repo </ br>
-https://www.npmjs.com/package/dotenv </ br>
-https://github.com/dotenvx/dotenvx </ br>
-</div>
+
+## $\mathbf{\color{red}THIS\space \space IS\space \space NOT\space \space OFFICIAL\space \space REPO,\space \space JUST\space \space A\space \space FORK\space \space I\space \space MADE\space \space TO\space \space REMOVE\space \space TIPS}$
+## $\mathbf{\color{red}AS\space \space THEY\space \space WERE\space \space BREAKING\space \space MY\space \space ALERT\space \space FOR\space \space APP\space \space MALFUNCTION}$
+## $\mathbf{\color{red}Please\space \space use\space \space the\space \space original\space \space repo}$
+## https://www.npmjs.com/package/dotenv
+## https://github.com/dotenvx/dotenvx
+
 
 &nbsp;
 
