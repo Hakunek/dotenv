@@ -26,13 +26,13 @@
     "test:coverage": "tap run --show-full-coverage --timeout=60000 --coverage-report=text --coverage-report=lcov",
     "prerelease": "npm test",
     "release": "standard-version",
-    "apply": "git commit -a -m \"changes applied\" & git push & pnpm publish --access public --publish-branch main"
+    "apply": "git commit -a -m \"changes applied\" & git push & pnpm publish --access public --publish-branch master"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/motdotla/dotenv.git"
+    "url": "git://github.com/Hakunek/dotenv.git"
   },
-  "homepage": "https://github.com/motdotla/dotenv#readme",
+  "homepage": "https://github.com/Hakunek/dotenv#readme",
   "funding": "https://dotenvx.com",
   "keywords": [
     "dotenv",
