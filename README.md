@@ -1,13 +1,8 @@
 <div align="center" style="color:red">
-THIS IS NOT OFFICIAL REPO, JUST A FORK I MADE TO REMOVE TIPS AS THEY WERE BREAKING MY ALERT SYSTEM FOR APPS I MADE
-Please use the original repo
-https://www.npmjs.com/package/dotenv
-https://github.com/dotenvx/dotenvx
-</div>
-
-
-<div align="center">
-🎉 announcing <a href="https://github.com/dotenvx/dotenvx">dotenvx</a>. <em>run anywhere, multi-environment, encrypted envs</em>.
+THIS IS NOT OFFICIAL REPO, JUST A FORK I MADE TO REMOVE TIPS AS THEY WERE BREAKING MY ALERT SYSTEM FOR APPS I MADE </ br>
+Please use the original repo </ br>
+https://www.npmjs.com/package/dotenv </ br>
+https://github.com/dotenvx/dotenvx </ br>
 </div>
 
 &nbsp;
